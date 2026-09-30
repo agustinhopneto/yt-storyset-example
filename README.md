@@ -1,70 +1,72 @@
 <div align="center">
 
-# 🍔 Ilustrações Animadas no React com o Storyset
+# 🍔 Animated Illustrations in React with Storyset
 
-**Ilustrações animadas e gratuitas no seu projeto React, sem complicações.**
+**Free animated illustrations in your React project, hassle-free.**
 
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000000)
 ![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
 
-[![YouTube](https://img.shields.io/badge/Assista_no_YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/watch?v=lnZzLOD_ghY)
-[![DevClub PRO](https://img.shields.io/badge/Canal-DevClub_PRO-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@DevClubPRO)
+[![YouTube](https://img.shields.io/badge/Watch_on_YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/watch?v=lnZzLOD_ghY)
+[![DevClub PRO](https://img.shields.io/badge/Channel-DevClub_PRO-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@DevClubPRO)
 
 </div>
 
 ---
 
-## 🎬 Vídeo
+## 🎬 Video
 
-Este repositório acompanha o vídeo do canal **[DevClub PRO](https://www.youtube.com/@DevClubPRO)**:
+This repository accompanies a video from the **[DevClub PRO](https://www.youtube.com/@DevClubPRO)** channel:
 
 <div align="center">
 
-<a href="https://www.youtube.com/watch?v=lnZzLOD_ghY" title="Ilustrações Animadas No React Utilizando O Storyset | Sem complicações!">
-  <img src="https://img.youtube.com/vi/lnZzLOD_ghY/maxresdefault.jpg" alt="Ilustrações Animadas No React Utilizando O Storyset | Sem complicações!" width="720" />
+<a href="https://www.youtube.com/watch?v=lnZzLOD_ghY" title="Animated Illustrations in React with Storyset | Hassle-free!">
+  <img src="https://img.youtube.com/vi/lnZzLOD_ghY/maxresdefault.jpg" alt="Animated Illustrations in React with Storyset | Hassle-free!" width="720" />
 </a>
 
-**▶️ [Ilustrações Animadas No React Utilizando O Storyset | Sem complicações!](https://www.youtube.com/watch?v=lnZzLOD_ghY)**
+**▶️ [Animated Illustrations in React with Storyset | Hassle-free!](https://www.youtube.com/watch?v=lnZzLOD_ghY)**
+
+<sub>🇧🇷 The video is in Brazilian Portuguese.</sub>
 
 </div>
 
-## 📖 Sobre
+## 📖 About
 
-Exemplo de como usar as ilustrações animadas do **[Storyset](https://storyset.com/)** em uma aplicação **React + Vite**. A ilustração é exportada como SVG animado e importada como um asset comum, sem nenhuma biblioteca extra.
+An example of using **[Storyset](https://storyset.com/)** animated illustrations in a **React + Vite** application. The illustration is exported as an animated SVG and imported like any other asset, with no extra libraries.
 
-## 🎯 O que você vai aprender
+## 🎯 What you’ll learn
 
-- Escolher e personalizar uma ilustração no Storyset
-- Exportar a ilustração como SVG animado
-- Importar e exibir o SVG em um componente React
-- Dar os devidos créditos ao Storyset
+- Pick and customize an illustration on Storyset
+- Export the illustration as an animated SVG
+- Import and display the SVG in a React component
+- Give proper credit to Storyset
 
-## 🚀 Como rodar
+## 🚀 Getting started
 
-> Pré-requisito: [Node.js](https://nodejs.org/) 18+
+> Prerequisite: [Node.js](https://nodejs.org/) 18+
 
 ```bash
-# 1. Clone o repositório
+# 1. Clone the repository
 git clone https://github.com/agustinhopneto/yt-storyset-example.git
 cd yt-storyset-example
 
-# 2. Instale as dependências
+# 2. Install the dependencies
 npm install
 
-# 3. Rode o projeto
+# 3. Run the project
 npm run dev
 ```
 
-Acesse **http://localhost:5173** 🎉
+Open **http://localhost:5173** 🎉
 
-## 🛠️ Tecnologias
+## 🛠️ Tech stack
 
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000000)
 ![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
 
-## 🙏 Créditos
+## 🙏 Credits
 
 Illustrations by [Storyset](https://storyset.com/food)
 
@@ -72,10 +74,10 @@ Illustrations by [Storyset](https://storyset.com/food)
 
 <div align="center">
 
-Curtiu? Deixa um ⭐ no repositório e se inscreva no canal!
+Enjoyed it? Leave a ⭐ on the repo and subscribe to the channel!
 
-[![Inscreva-se](https://img.shields.io/badge/Inscreva--se-DevClub_PRO-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@DevClubPRO?sub_confirmation=1)
+[![Subscribe](https://img.shields.io/badge/Subscribe-DevClub_PRO-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@DevClubPRO?sub_confirmation=1)
 
-Feito com 💙 por **[Agustinho Neto](https://github.com/agustinhopneto)**
+Made with 💙 by **[Agustinho Neto](https://github.com/agustinhopneto)**
 
 </div>
